@@ -62,7 +62,7 @@ export default {
   },
   networks: {
     hardhat: hardhatNetworkSettings,
-    eMoney: {
+    eMoney_Testnet: {
       url: "https://testnet.emoney.network/",
       accounts: []
     },
